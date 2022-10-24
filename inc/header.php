@@ -25,7 +25,7 @@
             <a class="nav-link" href="./feedback.php">Past Feedback</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./about.php">About Me</a>
+            <a class="nav-link" href="./about.php">About Meee</a>
           </li>
         </ul>
       </div>
